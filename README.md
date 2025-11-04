@@ -118,14 +118,6 @@ npm run dev
 
 The React app will be available at `http://localhost:5173`
 
-## API Endpoints
-
-- `GET /` - Root endpoint
-- `GET /api/health` - Health check
-- `GET /api/items` - Get all items
-- `POST /api/items` - Create a new item
-- `GET /api/items/{item_id}` - Get a specific item
-
 ## Production Build
 
 ### Frontend
