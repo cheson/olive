@@ -3,6 +3,7 @@
 A modern full-stack web application built with React (frontend) and FastAPI (backend).
 
 ## Notes for Olive
+```
 Overview
     - Explored the 3rd party API with some test calls
     - Decided to cache API results and maintain a local cache to serve the frontend
@@ -46,6 +47,7 @@ Claude Code usage
         - "add page based pagination on the frontend with some dummy data"
         - "have the pagination blocks display a breed string and image"
         - "add pagination UI to enter an arbitrary page num"
+```
 
 ## Project Structure
 
